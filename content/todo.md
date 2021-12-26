@@ -16,3 +16,8 @@ draft: false
 * NFTs
 ## Books
 * Finance mindset
+* Habits
+## Blog
+* More avatars 
+* Randomize avatars
+* Netlify custom domain
