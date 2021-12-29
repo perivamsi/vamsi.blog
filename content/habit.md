@@ -12,6 +12,8 @@ draft: false
 ## Experiences
 * Drive in NYC
 * Go to liberty state park at night
+* Sojo spa
+* Pedicure
 
 ## Read
 * Seinfeld book "Is this anything?"
