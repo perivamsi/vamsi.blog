@@ -1,7 +1,7 @@
 ---
 title: "Manager Expectations"
 date: 2022-01-10
-draft: true
+draft: false
 ---
 * You should have more expectations of your manager
 * You are not doing any favors to your manager by making their life easy
