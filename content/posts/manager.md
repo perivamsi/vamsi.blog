@@ -14,3 +14,4 @@ draft: false
 * Sometimes people hesitate to ask managers questions because it looks bad, this needs to change
 * You should feel free to ask manager anything and the manager should give an honest answer without judging you (including "no, i cannot discuss that with you yet")
 * It is a mutual agreement  
+* Culture of not telling promo is a toxic one. You should keep your employees happy and healthy. Not worried and anxious.
