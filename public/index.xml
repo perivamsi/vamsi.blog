@@ -7,81 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2020, Jane Doe.</copyright>
-    <lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://vamsi.blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Manager Expectations</title>
-      <link>http://vamsi.blog/posts/manager/</link>
-      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://vamsi.blog/posts/manager/</guid>
-      <description>You should have more expectations of your manager You are not doing any favors to your manager by making their life easy Doesn&amp;rsquo;t mean you make their life hell but have clearly defined set of expectaions both way Usually the expectations only run one way, from manager to you &amp;ndash; it should be both ways What kind of expectations?  Time commitment Clear and direct feedback Informing you about promo decisions   Sometimes people hesitate to ask managers questions because it looks bad, this needs to change You should feel free to ask manager anything and the manager should give an honest answer without judging you (including &amp;ldquo;no, i cannot discuss that with you yet&amp;rdquo;) It is a mutual agreement Culture of not telling promo is a toxic one.</description>
-    </item>
-    
-    <item>
-      <title>Happy Holidays</title>
-      <link>http://vamsi.blog/posts/holidays2021/</link>
-      <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://vamsi.blog/posts/holidays2021/</guid>
-      <description>Merry Christmas and a Happy New Year!</description>
-    </item>
-    
+    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://vamsi.blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>http://vamsi.blog/posts/markdown/</link>
-      <pubDate>Sat, 25 Dec 2021 10:22:29 -0500</pubDate>
+      <link>http://vamsi.blog/markdown-syntax-guide/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://vamsi.blog/posts/markdown/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <guid>http://vamsi.blog/markdown-syntax-guide/</guid>
+      <description>&lt;p&gt;For a quick cheatsheet, check out &lt;a href=&#34;https://simplemde.com/markdown-guide&#34;&gt;https://simplemde.com/markdown-guide&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Hugo shortcodes</title>
-      <link>http://vamsi.blog/posts/shortcodes/</link>
-      <pubDate>Sat, 25 Dec 2021 10:22:19 -0500</pubDate>
+      <title>Bear</title>
+      <link>http://vamsi.blog/bear/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://vamsi.blog/posts/shortcodes/</guid>
-      <description>Images  Dave Herring    Dave Herring   Github Gist  Youtube video   Tweet Hugo 0.24 Released: Big archetype update + @Netlify _redirects etc. file supporthttps://t.co/X94FmYDEZJ #gohugo #golang @spf13 @bepsays
-&amp;mdash; GoHugo.io (@GoHugoIO) June 21, 2017  Vimeo   </description>
+      <guid>http://vamsi.blog/bear/</guid>
+      <description>Bear Website: https://bearblog.dev
+There is a website obesity crisis. Bloated websites are full of scripts, ads, and trackers slowing your readers down every time they try to read your well-crafted content.
+Bear is all you need to build a fantastic and optimized site or blog. It works perfectly on any viewing device. All you need to focus on is writing good content.
+Bear makes it simple to publish content online and grow an audience while keeping pages tiny, fast, and optimized for search engines.</description>
     </item>
     
     <item>
-      <title>How I Learned to Stop Procrastinating, &amp; Love Letting Go</title>
-      <link>http://vamsi.blog/posts/procrastination/</link>
-      <pubDate>Sat, 25 Dec 2021 10:21:24 -0500</pubDate>
+      <title>Hugo</title>
+      <link>http://vamsi.blog/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://vamsi.blog/posts/procrastination/</guid>
-      <description>The end of procrastination is the art of letting go.
-I’ve been a lifelong procrastinator, at least until recent years. I would put things off until deadline, because I knew I could come through. I came through on tests after cramming last minute, I turned articles in at the deadline after waiting until the last hour, I got things done.
-Until I didn’t. It turns out procrastinating caused me to miss deadlines, over and over.</description>
-    </item>
-    
-    <item>
-      <title>Todo</title>
-      <link>http://vamsi.blog/todo/</link>
-      <pubDate>Sat, 25 Dec 2021 10:08:16 -0500</pubDate>
-      
-      <guid>http://vamsi.blog/todo/</guid>
-      <description>Engineering Leadership  todo 1 todo 2 todo 3  Github Code  Coding Open source Projects  Generative Art  Processing NFTs  Books  Finance mindset Habits  Blog  More avatars Randomize avatars Netlify custom domain  </description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://vamsi.blog/about/</link>
-      <pubDate>Sat, 25 Dec 2021 10:06:16 -0500</pubDate>
-      
-      <guid>http://vamsi.blog/about/</guid>
-      <description>This is an about page!
-Editing this on my phone :)</description>
-    </item>
-    
-    <item>
-      <title>Hello</title>
-      <link>http://vamsi.blog/posts/hello/</link>
-      <pubDate>Thu, 23 Dec 2021 12:14:08 -0500</pubDate>
-      
-      <guid>http://vamsi.blog/posts/hello/</guid>
-      <description>hello, world!</description>
+      <guid>http://vamsi.blog/hugo/</guid>
+      <description>Hugo Website: https://gohugo.io
+Written in Go, Hugo is an open-source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML, and JSON data file types, Markdown and HTML content files, and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification, and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:</description>
     </item>
     
   </channel>
